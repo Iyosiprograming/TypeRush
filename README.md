@@ -38,6 +38,7 @@ It measures how fast and accurately you can type a given sentence.
 
 ## 📸 Preview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b04bd579-62ff-43a9-8b5a-cc5a680d5d59" />
 
 ---
 
