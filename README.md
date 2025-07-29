@@ -1,5 +1,7 @@
 
-name: typerush
+# ✨🚀🧠 **TypeRush** 🧠🚀✨  
+## ⚡ A Simple & Fun Typing Speed Game in Python ⚡
+
 description: >
   ⚡ TypeRush — A fast & fun Python terminal typing game that tests your speed and accuracy!  
   Perfect for beginners who want to improve their typing skills.
