@@ -52,6 +52,6 @@ It measures how fast and accurately you can type a given sentence.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/typerush.git
+   git clone [https://github.com/Iyosiprograming/TypeRush.git]
    cd typerush
    python typerush.py
